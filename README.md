@@ -5,6 +5,12 @@
 
 A full-stack Netflix clone built with ReactJS, Firebase and MaterialUI. Check out how it looks below: 
 
+<img src="assets/netflix-1.PNG" />
+<br />
+<br />
+<br />
 
+<img src="assets/netflix-2.PNG" />
+<br />
 
 Click <a href="https://netflix-clone-77da9.web.app/">here</a> to visit the LIVE APP!
