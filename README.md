@@ -3,7 +3,7 @@
   <h2 align="center">Netflix Clone</h2>
 </p>
 
-A full-stack Netflix clone built with ReactJS, Firebase and MaterialUI. Check out how it looks below: 
+A full-stack Netflix clone built from scratch with ReactJS, Firebase and MaterialUI. Check out how it looks below: 
 
 <img src="assets/netflix-1.PNG" />
 <br />
